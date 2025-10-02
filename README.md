@@ -8,3 +8,5 @@ Files
 - `style.css` → Styling for the website  
 - `guessNumberGame.js` → Game logic   
 - `Phoenix.jpg` → Logo used in the navbar
+
+Hosted at - `https://theguessgame.tiiny.site`
